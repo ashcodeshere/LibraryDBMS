@@ -1,0 +1,10 @@
+-- CREATE DATABASE LibraryDBMS
+-- SHOW DATABASES;
+-- USE LibraryDBMS;
+-- CREATE TABLE UserDetails(Id INT PRIMARY KEY AUTO_INCREMENT,name VARCHAR(150) NOT NULL,PhoneNo VARCHAR(10) NOT NULL,BooksIssued INT DEFAULT 0);
+-- CREATE TABLE BooksDetails(BId INT PRIMARY KEY AUTO_INCREMENT,name VARCHAR(100),Author VARCHAR(100),Publisher VARCHAR(100),Category VARCHAR(100),Status VARCHAR(15) DEFAULT "Can Be Issued");
+-- CREATE TABLE BooksIssued(Id INT,BId INT,DateIssued DATETIME DEFAULT Current_Timestamp);
+-- CREATE TABLE AdminDetails(name VARCHAR(150) NOT NULL,PhoneNo VARCHAR(10) NOT NULL,PassWD VARCHAR(50),AdhaarId VARCHAR(15));
+-- INSERT INTO AdminDetails(name,PhoneNo,PassWD,adhaarid) VALUES ("-","-","-","-")
+-- alter table booksissued modify fines int DEFAULT 0
+-- ALTER TABLE booksissued add column last_fine_update DATETIME DEFAULT Current_Timestamp
