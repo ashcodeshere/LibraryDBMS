@@ -37,3 +37,5 @@ Key Features of Project
     <li>User Panel will be added soon!!!!</li>
 </ul>
 <b>User Guide will be added soon</b>
+
+ Many new projects will be coming soon from which you can built as a beginner and to strengthen your skills as Project Based Learning says.
