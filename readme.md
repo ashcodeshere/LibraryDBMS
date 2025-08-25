@@ -31,7 +31,7 @@ Key Features of Project
             <li> Edit PhoneNumber </li>
         </ol>
     </li>
-    <li>Check Fine - How much fine do someone have</li>
+    <li>Check Fine - Fine for submitting book after the due date</li>
     <li>Check limit - How much more days can someone keep the books without fine</li>
     <li>Update Fine</li>
     <li>User Panel will be added soon!!!!</li>

@@ -117,3 +117,6 @@ def recover_password():
         print("❌ Incorrect answer. Cannot reset password.")
       
       
+      
+# i used ChatGPT for all these codes in this module as i am learning about them.
+# To check how are they implemented and how they can help my project.
